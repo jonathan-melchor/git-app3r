@@ -5,10 +5,10 @@
    id = "com.phonegap.example13"
    version ="1.0.0">
    
- <name>app3r aplicaciones WEB</name>
+ <name>app3r aplicaciones web</name>
  
  <description>
-  Aplicacion que informa sobre Aplicaciones WEB
+  Aplicacion que informa sobre Aplicaciones web
  </description>
  
  <author href="https://build.phonegap.com" email="jonathan.melchor.cbtis16@gmail.com">
